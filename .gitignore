@@ -1,0 +1,4 @@
+canvas_env
+.env
+*.ics
+*.pyc
